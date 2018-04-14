@@ -1,2 +1,2 @@
 # aws-lambda-samples
-Some small samples from my was lambda talk
+Some samples from my aws lambda talk
